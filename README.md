@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌟 HoloCord
+  🌟 holocord
 </h1>
 
 <h3 align="center"><i>
@@ -14,7 +14,7 @@
 
 ---
 
-**HoloCord** transforms Discord into an advanced AI collaboration platform featuring **emotional AI agents**, **multi-model conversations**, and **real-time adaptation**. Each AI model becomes a unique Discord persona with its own personality, emotions, and evolving behavior patterns.
+**holocord** transforms Discord into an advanced AI collaboration platform featuring **emotional AI agents**, **multi-model conversations**, and **real-time adaptation**. Each AI model becomes a unique Discord persona with its own personality, emotions, and evolving behavior patterns.
 
 ## ✨ Key Features
 
