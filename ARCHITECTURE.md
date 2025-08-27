@@ -1,4 +1,4 @@
-# LLMCord Architecture & Future Development Threads
+# HoloCord Architecture & Future Development Threads
 
 ## Current State
 A Discord bot system enabling multi-model AI conversations through virtual users (webhook-based AI personas). Models from OpenRouter can be dynamically added as Discord users that respond to mentions.

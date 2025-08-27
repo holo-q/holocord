@@ -1,4 +1,4 @@
-# 🚀 Discord Bot Enhancements for LLMCord
+# 🚀 Discord Bot Enhancements for HoloCord
 
 ## 📋 Summary of Your Questions & Solutions
 
@@ -23,7 +23,7 @@
 ### 2️⃣ **Reading Attached .txt Files** ✅
 **Answer: YES - Already supported!**
 
-LLMCord **already reads .txt file attachments** automatically:
+HoloCord **already reads .txt file attachments** automatically:
 - ✅ Text files are included in message content
 - ✅ Images are processed with vision models
 - ✅ Multiple attachments per message supported
